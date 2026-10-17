@@ -43,13 +43,13 @@
 4. Создать файл `.env` в корне проекта и добавить API-ключ NASA:
 
 ```text
-NASA_API_KEY=your_api_key
+  NASA_API_KEY=your_api_key
 ```
 
 5. Запустить тесты:
 
 ```bash
-pytest -v
+  pytest -v
 ```
 
 ## Цель проекта
