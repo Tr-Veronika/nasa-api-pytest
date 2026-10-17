@@ -23,7 +23,7 @@
 1. Клонировать репозиторий и перейти в папку проекта.
 
 ```bash
-git clone https://github.com/ТВОЙ_ЛОГИН/nasa-api-pytest.git
+git clone https://github.com/Tr-Veronika/nasa-api-pytest.git
 cd nasa-api-pytest
 ```
 
