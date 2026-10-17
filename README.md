@@ -23,21 +23,21 @@
 1. Клонировать репозиторий и перейти в папку проекта.
 
 ```bash
-git clone https://github.com/Tr-Veronika/nasa-api-pytest.git
-cd nasa-api-pytest
+  git clone https://github.com/Tr-Veronika/nasa-api-pytest.git
+  cd nasa-api-pytest
 ```
 
 2. Создать виртуальное окружение и активировать его:
 
 ```bash
-python -m venv .venv
-.venv\Scripts\Activate.ps1
+  python -m venv .venv
+  .venv\Scripts\Activate.ps1
 ```
 
 3. Установить зависимости из `requirements.txt`:
 
 ```bash
-pip install -r requirements.txt
+  pip install -r requirements.txt
 ```
 
 4. Создать файл `.env` в корне проекта и добавить API-ключ NASA:
